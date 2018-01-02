@@ -10,11 +10,11 @@
 
   <rect x="30" y="50" width="108" height="50" style="fill:blue; stroke:none"/>
 
-  <circle cx="100" cy="42" r="42"             style="fill:blue; stroke:none"/>
-  <circle cx="31" cy="69" r="31"              style="fill:blue; stroke:none"/>
-  <circle cx="137" cy="75" r="25"             style="fill:blue; stroke:none"/>
+  <circle cx="31" cy="69" r="31"              style="fill:blue;stroke:none"/>
+  <circle cx="100" cy="42" r="42"             style="fill:blue;stroke:none"/>
+  <circle cx="137" cy="75" r="25"             style="fill:blue;stroke:none"/>
 
-  <circle cx="50" cy="31" r="31"              style="fill:gold; stroke:none"/>
+  <circle cx="50" cy="31" r="31"              style="fill:gold;stroke:none"/>
 
   <polygon points="81,31 50,62 81,62"         style="fill:blue; stroke:none"/>
   <circle cx="77" cy="31" r="4"               style="fill:gold; stroke:none"/>
@@ -56,6 +56,13 @@
         0101 1001
       </textPath>
     </text>
+  </g>
+
+  <g transform="translate(73,-15)">
+    <path id="Curve" style="fill:none;stroke:black"
+          d="M 0 0
+             H 27
+             A 57 57 0 0 1 84 57" />
   </g>
 
 </svg>
