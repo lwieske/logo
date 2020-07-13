@@ -28,9 +28,4 @@ The yellow circle aligns a 45&#x2070; diagonal making it a lightbulb.
 
 ![](https://github.com/lwieske/logo/blob/master/design/design5.png)
 
-And the text - my initials ('0101'=5="L" / '1001'=9="W") - follows the biggest
-circle with a distance.   
-
-![](https://github.com/lwieske/logo/blob/master/design/design6.png)
-
 The generate.sh script generates different icon sizes from the svg.
